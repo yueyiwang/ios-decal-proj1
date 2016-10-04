@@ -23,27 +23,27 @@ You are **creating a To-Do List app**. For this project we will not give you any
 You **must** have these three classes, feel free to name them as you please. In addition, you should satisfy the general requirements below. 
 
 ###  Table View Controller of To-Do List Items
-      - [ ] Ability to visually mark a task as completed
-      - [ ] Ability to visually unmark a task as completed
-      - [ ] Tasks must automatically clear 24 hours after they are marked as
-      completed
-      - [ ] Ability to delete a task
-      - [ ] Button to add a To-Do Item (goes to Add To-Do Item View)
-      - [ ] Button to view Stats (goes to Daily Stats View)
+- [ ] Ability to visually mark a task as completed
+- [ ] Ability to visually unmark a task as completed
+- [ ] Tasks must automatically clear 24 hours after they are marked as
+completed
+- [ ] Ability to delete a task
+- [ ] Button to add a To-Do Item (goes to Add To-Do Item View)
+- [ ] Button to view Stats (goes to Daily Stats View)
 ###  View Controller of To-Do List Statistics
-      - [ ] Displays the number of tasks completed in the past 24 hours
-      - [ ] Ability to return to To-Do List Table View
+- [ ] Displays the number of tasks completed in the past 24 hours
+- [ ] Ability to return to To-Do List Table View
 ###  Add To-Do Item View Controller
-      - [ ] Ability to add a task, where entering text and confirming returns to the
-      To-Do List Table View, now updated with the new task added
-      - [ ] Ability to cancel and return to To-Do List Table View without adding a
-      task
+- [ ] Ability to add a task, where entering text and confirming returns to the
+To-Do List Table View, now updated with the new task added
+- [ ] Ability to cancel and return to To-Do List Table View without adding a
+task
 ###  General Requirements      
-    - [ ] Create a Universal app when you construct your Xcode project.
-    - [ ] UI must scale to iPhone 6 and up and all iPads in both Portrait and
-    Landscape orientations.
-      * Hint: Think Auto-Layout. For UILabels, autoshrink in the Attributes
-      Inspector is also useful. 
+- [ ] Create a Universal app when you construct your Xcode project.
+- [ ] UI must scale to iPhone 6 and up and all iPads in both Portrait and
+Landscape orientations.
+  * Hint: Think Auto-Layout. For UILabels, autoshrink in the Attributes
+  Inspector is also useful. 
 
 ## Bells & Whistles
 
