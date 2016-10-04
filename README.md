@@ -1,7 +1,7 @@
 # Project 1: To-Do List App
 
 ## Due
-Wednesday October 19 at 11:59 PM
+Wednesday, October 19 at 11:59 PM
 
 ## Description 
 In Project 1, you will build your own Utility app - a To-Do List.  As you would
@@ -66,5 +66,6 @@ The total score is out of 4, and students with the top submissions are eligible 
 
 ## Example
 
-[![Screenshot](calculator.gif)](https://j.gifs.com/xGqBOl.gif)
+[![Screenshot](Todo_Demo.gif)](https://j.gifs.com/xGqBOl.gif)
+[Try It](https://appetize.io/app/v6p7rnrnrrwjf1jbwez7uqz13r?device=iphone6s&scale=75&orientation=portrait&osVersion=10.0)
 
