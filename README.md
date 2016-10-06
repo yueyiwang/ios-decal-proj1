@@ -60,7 +60,7 @@ Landscape orientations.
 
 ## Grading
 
-This assignment is hand-graded! If you satisfy all of the General requirements you will get full credit. Every General requirement missed will have 1 point removed from your total score.
+This assignment is hand-graded! If you satisfy all of the requirements you will get full credit. Every requirement missed will have 1 point removed from your total score.
 
 The total score is out of 4, and students with the top submissions are eligible to receive one extra-credit point (5/4). These students have the option to have their resumes referred to Apple University recruiting.
 
