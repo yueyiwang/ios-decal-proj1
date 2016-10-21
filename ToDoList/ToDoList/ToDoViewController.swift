@@ -5,6 +5,7 @@
 //  Created by Yueyi (Annie) Wang on 10/20/16.
 //  Copyright © 2016 Yueyi (Annie) Wang. All rights reserved.
 //
+// Referenced Open Source ToDo iOS app
 
 import UIKit
 
