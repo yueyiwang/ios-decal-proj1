@@ -33,13 +33,6 @@ class itemCell: UITableViewCell, UITableViewDataSource {
         cell.titleField.text = item.title
         cell.detailsField.text = item.details
         
-        //let image = cell.viewWithTag(101) as! UIImageView
-        //let title = cell.viewWithTag(102) as! UILabel
-        //let details = cell.viewWithTag(103) as! UILabel
-        
-        //title.text = item.title
-        //details.text = item.details
-        
         return cell
         
     }
